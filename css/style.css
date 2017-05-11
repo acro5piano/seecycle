@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+}
+
+.top {
+  background-image: url("../images/top.jpg");
+  background-repeat: no-repeat;
+  min-height: 80vh;
+  padding: 100px;
+  color: #eee;
+  min-width: 100px;
+}
